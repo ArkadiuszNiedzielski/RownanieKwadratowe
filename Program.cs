@@ -5,10 +5,9 @@ namespace RownanieKwadratowe
     class RownanieKwadratowe
     {
         private
-             double a, b, c, x1, x2, delta;
+             double a, b, c, x1, x2, delta, wynik;
 
-        public
-             void podajWartosci()
+        public void podajWartosci()
         {
             try
             {
@@ -26,11 +25,18 @@ namespace RownanieKwadratowe
             {
                 Console.WriteLine("Nieprawidłowe dane, kończę program");
             }
-            
-
-               
-
         }
+
+        public double liczRownanie()
+        {
+             delta= (b * b) - 4 * a * c;
+
+
+
+            return wynik;
+        }
+
+
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
