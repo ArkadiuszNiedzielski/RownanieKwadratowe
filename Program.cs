@@ -1,11 +1,12 @@
 ﻿using System;
 
+
 namespace RownanieKwadratowe
 {
     class RownanieKwadratowe
     {
         private
-             double a, b, c, x1, x2, delta, wynik;
+             double a, b, c, x1, x2, delta;
 
         public void podajWartosci()
         {
@@ -27,21 +28,36 @@ namespace RownanieKwadratowe
             }
         }
 
-        public double liczRownanie()
+        public void liczRownanie()
         {
              delta= (b * b) - 4 * a * c;
 
+            if (delta > 0)
+            {
+                x1 = (-b - Math.Sqrt(delta)) / (2 * a);
+                x2 = (-b + Math.Sqrt(delta)) / (2 * a);
+                Console.WriteLine("x1= "+x1);
+                Console.WriteLine("x2 = "+x2);
+            }
+            if (delta == 0)
+            {
+                x1 = (-b / (2 * a));
+                Console.WriteLine("x0= " + x1);
+            }
+            if (delta < 0)
+                Console.WriteLine("Delta ujemna. Brak miejsc zerowych");
 
-
-            return wynik;
         }
 
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Kalkulator funkcji kwadratowej");
             RownanieKwadratowe dzialanie = new RownanieKwadratowe();
             dzialanie.podajWartosci();
+            dzialanie.liczRownanie();
+            Console.Write("Naciśnij <Enter> aby wyjść... ");
+            while (Console.ReadKey().Key != ConsoleKey.Enter) { }
         }
     }
 }
