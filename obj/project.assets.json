@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aras\\source\\repos\\RownanieKwadratowe\\RownanieKwadratowe.csproj",
+      "projectUniqueName": "C:\\Users\\Aras\\Source\\Repos\\RownanieKwadratoweGIT\\RownanieKwadratowe.csproj",
       "projectName": "RownanieKwadratowe",
-      "projectPath": "C:\\Users\\Aras\\source\\repos\\RownanieKwadratowe\\RownanieKwadratowe.csproj",
+      "projectPath": "C:\\Users\\Aras\\Source\\Repos\\RownanieKwadratoweGIT\\RownanieKwadratowe.csproj",
       "packagesPath": "C:\\Users\\Aras\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aras\\source\\repos\\RownanieKwadratowe\\obj\\",
+      "outputPath": "C:\\Users\\Aras\\Source\\Repos\\RownanieKwadratoweGIT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aras\\AppData\\Roaming\\NuGet\\NuGet.Config",
