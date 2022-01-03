@@ -5,8 +5,9 @@ namespace RownanieKwadratowe1
 {
     public class RownanieKwadratowe
     {
-        private
+        public
              double a, b, c, x1, x2, delta;
+
 
         public void podajWartosci()
         {
@@ -22,22 +23,25 @@ namespace RownanieKwadratowe1
                 b = double.Parse(Console.ReadLine());
                 c = double.Parse(Console.ReadLine());
             }
-            catch 
+            catch
             {
                 Console.WriteLine("Nieprawidłowe dane, kończę program");
             }
         }
 
+
+        
+
         public void liczRownanie()
         {
-             delta= (b * b) - 4 * a * c;
+            delta = (b * b) - 4 * a * c;
 
             if (delta > 0)
             {
                 x1 = (-b - Math.Sqrt(delta)) / (2 * a);
                 x2 = (-b + Math.Sqrt(delta)) / (2 * a);
-                Console.WriteLine("x1= "+x1);
-                Console.WriteLine("x2 = "+x2);
+                Console.WriteLine("x1= " + x1);
+                Console.WriteLine("x2 = " + x2);
             }
             if (delta == 0)
             {

@@ -1,13 +1,13 @@
-C:\Users\Aras\source\repos\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.csprojAssemblyReference.cache
-C:\Users\Aras\source\repos\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.AssemblyInfoInputs.cache
-C:\Users\Aras\source\repos\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.AssemblyInfo.cs
-C:\Users\Aras\source\repos\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.csproj.CoreCompileInputs.cache
 C:\Users\Aras\source\repos\RownanieKwadratowe\bin\Debug\netcoreapp3.1\RownanieKwadratowe.exe
 C:\Users\Aras\source\repos\RownanieKwadratowe\bin\Debug\netcoreapp3.1\RownanieKwadratowe.deps.json
 C:\Users\Aras\source\repos\RownanieKwadratowe\bin\Debug\netcoreapp3.1\RownanieKwadratowe.runtimeconfig.json
 C:\Users\Aras\source\repos\RownanieKwadratowe\bin\Debug\netcoreapp3.1\RownanieKwadratowe.runtimeconfig.dev.json
 C:\Users\Aras\source\repos\RownanieKwadratowe\bin\Debug\netcoreapp3.1\RownanieKwadratowe.dll
 C:\Users\Aras\source\repos\RownanieKwadratowe\bin\Debug\netcoreapp3.1\RownanieKwadratowe.pdb
+C:\Users\Aras\source\repos\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.csprojAssemblyReference.cache
+C:\Users\Aras\source\repos\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.AssemblyInfoInputs.cache
+C:\Users\Aras\source\repos\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.AssemblyInfo.cs
+C:\Users\Aras\source\repos\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.csproj.CoreCompileInputs.cache
 C:\Users\Aras\source\repos\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.dll
 C:\Users\Aras\source\repos\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.pdb
 C:\Users\Aras\source\repos\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.genruntimeconfig.cache
