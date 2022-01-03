@@ -1,9 +1,9 @@
 ﻿using System;
 
 
-namespace RownanieKwadratowe
+namespace RownanieKwadratowe1
 {
-    class RownanieKwadratowe
+    public class RownanieKwadratowe
     {
         private
              double a, b, c, x1, x2, delta;
@@ -22,7 +22,7 @@ namespace RownanieKwadratowe
                 b = double.Parse(Console.ReadLine());
                 c = double.Parse(Console.ReadLine());
             }
-            catch
+            catch 
             {
                 Console.WriteLine("Nieprawidłowe dane, kończę program");
             }
